@@ -21,16 +21,7 @@ TextShadowOffsetY=0
 TitleAlignment=Center
 TitleVerticalAlignment=Center
 UseTextShadow=false
-XftHintStyle=hintmedium
-dbfile=/home/jmt/.mozilla/firefox/p5xexxrp.default/places.sqlite
-desktopFont=Sans Serif,10,-1,5,50,0,0,0,0,0
-fixed=Monospace,9,-1,5,50,0,0,0,0,0
-font=Sans Serif,10,-1,5,50,0,0,0,0,0
-menuFont=Sans Serif,10,-1,5,50,0,0,0,0,0
-shadeSortColumn=true
-smallestReadableFont=Sans Serif,9,-1,5,50,0,0,0,0,0
-taskbarFont=Sans Serif,10,-1,5,50,0,0,0,0,0
-toolBarFont=Sans Serif,10,-1,5,50,0,0,0,0,0
+
 
 [Layout]
 BorderBottom=8
